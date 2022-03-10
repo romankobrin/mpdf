@@ -36,7 +36,7 @@
 		"ext-mbstring": "*",
 		"psr/log": "^1.0 || ^2.0",
 		"setasign/fpdi": "dev-master",
-		"paragonie/random_compat": "^1.4|^2.0|9.99.99",
+		"paragonie/random_compat": "^1.4|^2.0|9.99.99|9.99.100",
 		"myclabs/deep-copy": "^1.7"
 
 	},
